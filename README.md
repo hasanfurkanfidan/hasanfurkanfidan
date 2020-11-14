@@ -20,3 +20,5 @@ You can find and get in touch with me on below accounts!
 [![Linkedin Badge](https://img.shields.io/badge/hasanfurkanfidan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasanfurkanfidan/)
 
 [![Instagram Badge](https://img.shields.io/badge/hasanfurkanfidan-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/hasanfurkanfidann/)
+
+(https://hasanfurkanfidan.com/)
