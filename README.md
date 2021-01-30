@@ -9,7 +9,7 @@ My name is Hasan Furkan,I'm here to learn and share what I've learned.
 
 ##  Job
 
-I'm working as a Software Engineer Intern in [T&G Workshop]
+I'm working as a Software Engineer.
 
 
 
@@ -19,6 +19,6 @@ You can find and get in touch with me on below accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/hasanfurkanfidan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasanfurkanfidan/)
 
-[![Instagram Badge](https://img.shields.io/badge/hasanfurkanfidan-follow%20on%20instagram-blue?style=for-the-badge&logo=instagram)](https://instagram.com/hasanfurkanfidann/)
+[![Twitter Badge](https://img.shields.io/badge/hasanfurkanfidan-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ffidandev/)
 
 (https://hasanfurkanfidan.com/)
