@@ -17,7 +17,7 @@ I'm working as a Software Engineer.
 
 You can find and get in touch with me on below accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/hasanfurkanfidan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasanfurkanfidan/)
+[![Linkedin Badge](https://img.shields.io/badge/hasanfurkanfidan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hasan-furkan-fidan-b887b8196/)
 
 [![Twitter Badge](https://img.shields.io/badge/hasanfurkanfidan-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ffidandev/)
 
